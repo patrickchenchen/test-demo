@@ -6,3 +6,4 @@ git log //查看记录
 git log="XXX" //查看当前操作人.
 git push origin main //main为分支
 git branch //分支
+git checkout 分支名称 //
